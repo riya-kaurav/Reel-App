@@ -13,6 +13,4 @@ It supports user authentication, media uploads, and a modern UI for sharing post
 - **Media Storage:** ImageKit.io
 
 ---
- **Status:** This project is currently a work in progress. Features and configurations are actively being developed.
-
----
+ 
