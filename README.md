@@ -9,7 +9,7 @@ It supports user authentication, media uploads, and a modern UI for sharing post
 - **Frontend:** Next.js 16, React, Tailwind CSS
 - **Backend:** Node.js, Express (API routes in Next.js)
 - **Database:** MongoDB Atlas
-- **Auth:** NextAuth.js (OAuth + Credentials)
+- **Auth:** NextAuth.js 
 - **Media Storage:** ImageKit.io
 
 ---
